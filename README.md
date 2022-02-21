@@ -8,6 +8,8 @@ Criado com HTML, CSS, JS;
 
 Um To Do List simples que salva seus dados no local storage;
 
+Acessar projeto online clique [aqui](https://raposa-dev.github.io/TO-DO-List-simple/);
+
 # Pré-Requisitos
 
 ---
